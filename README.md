@@ -1,6 +1,4 @@
-# Create-React-App(CRA) StarterKit (11/22/2018)
-
-## Development
+# My CRA StarterKit
 
 ### Quick Start
 
@@ -23,6 +21,6 @@ yarn start
 ## Features
 
 ### * ESLint and Prettier
-### * SASS(SCSS) Integration
+### * SCSS Integration
 ### * Absolute path configuration
-### * Added React Router
+### * React Router
